@@ -232,14 +232,18 @@ Project ini juga menunjukkan kemampuan dalam:
 ```bash
 Classic-Model/
 │
-├── dataset/
-│   ├── classic_model_sales.csv
+├── Analisis/
+│   ├── Classic Model Analisis.xlsx
 │
 ├── Dashboard/
 │   ├── Sales_Overview-Page1.png
 │   ├── Sales_Overview-Page2.png
 │
-├── dashboard/
-│   ├── classic_model_dashboard.pbix
+├── Data/
+│   ├── Classic_Model-Clean_Data.csv
+│   ├── Script_for_Classic_Models.txt
+│
+├── Power_BI/
+│   ├── classicmodels_bi.pbix
 │
 ├── README.md
